@@ -1,0 +1,165 @@
+*{
+	margin:0;
+	padding:0;	
+}
+body{
+	margin:0;
+	padding:0;
+	background:gray;
+}
+.wrapper{
+	background:green;
+	width:80%;
+	margin:auto;
+}
+		/*header start*/
+.header{
+	background:pink;
+	padding:20px 0;
+}
+.header img{
+	width:100px;
+	height:100px;
+}
+.header span{
+	font-size:40px;
+	font-weight:bold;
+	margin:0 10px;
+}
+		/*nav start*/
+.nav{
+	background:green;
+	padding:5px 20px;
+}
+.nav ul{
+	list-style-type:none;
+	padding:0px 10px;
+	
+}
+.nav ul li{
+	display:inline;
+	margin:0 20px;
+	padding:5px 8px;
+	
+	
+}
+.nav ul li a{
+	text-decoration:none;
+	color:yellow;
+	font-size:20px;
+	font-weight:bold;
+}
+.nav ul li a:hover{
+	text-decoration:none;
+	color:green;
+	background:yellow;
+	font-size:20px;
+	font-weight:bold;
+	padding:5px 0;
+}
+		/*slide start*/
+.slide{
+	margin-bottom:-5px;
+	padding:0;
+}
+		/*notice start*/
+.notice{
+	background:pink;
+	clear:both;
+	font-size:20px;
+	padding:5px 0;
+}
+.notice a{
+	text-decoration:none;
+}
+.notice a:hover{
+	text-decoration:underline;
+}
+		/*Container start*/
+.container{
+	
+}
+.courses{
+	background:pink;
+	height:300px;
+	width:20%;
+	margin:20px;
+	float:left;
+	padding-left:10px;
+	border-radius:10px;
+}
+.courses ul{
+	
+}
+.courses ul li{
+	list-style-type:none;
+}
+.courses ul li a{
+	text-decoration:none;
+}
+.courses ul li a:hover{
+	text-decoration:underline;
+}
+.con_body{
+	color:white;
+	float:left;
+	width:50%;
+	padding-top:20px;
+}
+.con_body h2{
+	color:yellow;
+}
+.form{
+	background:pink;
+	height:300px;
+	width:20%;
+	margin:20px;
+	float:right;
+	padding-left:10px;
+	border-radius:10px;
+}
+		/*footer start*/
+.footer{
+	clear:both;
+	background:black;
+	color:white;
+	text-align:center;
+	font-size:16px;
+	font-weight:bold;
+	height:35px;
+	padding-top:15px;
+}
+
+
+/*  ------------Contact page start----------------*/
+.contact{
+	background:white;
+	padding:20px;
+}
+.map{
+	float:left;
+}
+.address{
+	float:left;
+	margin-left:40px;
+}
+/*  ------------Contact page end  ----------------*/
+
+/*  ------------Academic page start -------------*/
+.con_body table{
+	border-collapse:collapse;
+	width:600px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
